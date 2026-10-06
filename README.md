@@ -32,131 +32,105 @@
 <!-- ABOUT ME -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28"> &nbsp;`sys.about_me()`
+<div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   Name      :  Arnav Domalwar[cite: 2]                                 │
-│   Location  :  Nagpur, Maharashtra, India[cite: 2]                     │
-│   Role      :  AI/ML Developer • Embedded Systems Engineer[cite: 2]    │
-│   Education :  B.Tech Electronics & Computer Science[cite: 2]          │
-│   Institute :  Ramdeobaba University[cite: 2]                          │
-│                                                                        │
-│   Mission   :  Building scalable AI models and deploying them          │
-│                on intelligent hardware/IoT systems.                    │
-│                                                                        │
-│   Domains   :  Embedded Systems / Robotics / Computer Vision[cite: 2]  │
-│                IoT / Full Stack Web Development[cite: 2]               │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- DYNAMIC HEADER & TYPING ANIMATION -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41,50:008F11&height=250&section=header&text=ARNAV%20DOMALWAR&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descSize=18&descAlignY=60&descColor=00FF41&animation=twinkling" width="100%" />[cite: 2]
 
-##   `tech_stack()`
+<a href="https://github.com/arnavdomalwar971">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+_Initializing+intelligent+systems...;%3E+_Bridging+Hardware+and+Software.;%3E+_B.Tech+Electronics+%26+Computer+Science.[cite: 2];%3E+_Transforming+ideas+into+reality." alt="Typing SVG" />
+</a>
 
-##   `featured_projects()`
+<br>
 
-### 🩺 IoT Health Monitoring System
+<!-- PROFILE VIEWS BADGE -->
+<img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&logo=github" alt="Profile Views" />
 
-```text
-┌──────────────────────────────┐
-│  🔌 ESP32 & Arduino          │
-│  💓 MAX30100 & AD8232        │
-│  🌡 DS18B20 & ADXL345        │
-│  📡 I2C Comm & Firmware      │
-└──────────────────────────────┘
+<!-- GITHUB TROPHIES (Animated & Dynamic) -->
+<br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnavdomalwar971&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</a>
 
-```
+</div>
 
-*Multi-sensor data acquisition for pulse, ECG, temp, and motion with local output and IoT communication.*
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="5" width="100%">
+</div>
 
-### 🌿 Plant Species Classification
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL STYLE ABOUT ME -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-```text
-┌──────────────────────────────┐
-│  🧠 PyTorch & TensorFlow     │
-│  👁️ OpenCV Preprocessing     │
-│  📊 Transfer Learning        │
-│  📈 F1-Score Evaluation      │
-└──────────────────────────────┘
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <code>sys.get_profile()</code></h2>
+</div>
 
-```
 
-*End-to-end ML workflow for leaf-image dataset classification using augmentation and transfer learning.*
+{
+  "developer": "Arnav Domalwar",[cite: 2]
+  "location": "Nagpur, Maharashtra, India",[cite: 2]
+  "education": "B.Tech Electronics & Computer Science @ Ramdeobaba University",[cite: 2]
+  "status": "Finalist @ HACKSAGON 2025 | Holder of 2 Registered Designs",[cite: 2]
+  "core_competencies": [
+    "AI / Machine Learning",[cite: 2]
+    "Embedded Systems / IoT",[cite: 2]
+    "Computer Vision / Robotics",[cite: 2]
+    "Full Stack Web Development"[cite: 2]
+  ],
+  "mission": "Deploying scalable AI models onto edge hardware and intelligent IoT systems."
+}
 
-### 🤖 Autonomous Line Follower Bot
 
-```text
-┌──────────────────────────────┐
-│  ⚙️ ESP32 Microcontroller    │
-│  🏎️ TB6612FNG Motor Driver   │
-│  📡 8-Channel IR Array       │
-│  🧭 Direction Logic          │
-└──────────────────────────────┘
 
-```
 
-*Hardware-software integration coordinating sensing, decision logic, and motor actuation for real-time line tracking.*
+AI, Data & Vision
 
-### 💨 Smart Clip-On Neutralizer
 
-```text
-┌──────────────────────────────┐
-│  📐 SolidWorks CAD           │
-│  🔧 Product Design           │
-│  🌍 Pollution Reduction      │
-│  📜 Registered Design        │
-└──────────────────────────────┘
 
-```
 
-*Compact, detachable exhaust-end clip-on device concept designed in SolidWorks aimed at reducing vehicular air and noise pollution.*
+Software & Web
 
-## 🏆 `achievements_and_ip()`
 
-| Award / Recognition | Details |
-| --- | --- |
-| 🥇 Finalist — HACKSAGON 2025 | ABV-IIITM Gwalior (IoT-enabled healthcare project, Top out of 600+ teams)
 
- |
-| 🏎️ Participant — TECHNOXIAN WORLD CUP 2025 | Fastest Line Follower Challenge with Team AutopilotX
 
- |
-| 📜 Registered Design | Neutralizer Device for Reduction in Vehicular Air and Noise Pollution
+Databases, Cloud & Design
 
- |
-| 📜 Registered Design | Clip-On Hybrid Conversion Module
 
- |
+###  IoT Health Monitoring System
 
-##   `current_status()`
+*Developed an IoT-based system integrating pulse (MAX30100), ECG (AD8232), temperature, and motion sensors over I2C with ESP32 & Arduino.*
 
-### 🔧 Current Engagements
+**Tech:** `ESP32` `Arduino` `Embedded C` `I2C`
 
-```diff
-+ ▸ AI Agents Track (Mentee) - GSSoC 2026
-+ ▸ Bharatiya Antariksh Hackathon 2025
-+ ▸ Def-Space Summer Internship
-+ ▸ Embedded AI & Robotics Prototyping
+###  Plant Species Classification
 
-```
+*End-to-end ML workflow using transfer learning, evaluated via accuracy, F1-score, and confusion matrix analysis.*
 
-### 📡 Ongoing Exploration
+**Tech:** `PyTorch/TensorFlow` `OpenCV` `Python`
 
-```diff
-@@ Expanding Knowledge @@
-! ▸ Cyber Security Research
-! ▸ Advanced Space Education Systems
-! ▸ Complex IoT Sensor Calibration
-! ▸ Multi-modal Machine Learning
+###  Line Follower Bot
 
-```
+*Built autonomous bot with ESP32, TB6612FNG driver, and 8-channel IR array. Showcased at TECHNOXIAN WORLD CUP 2025.*
 
-## 📊 `github_analytics()`
+**Tech:** `ESP32` `Motor Control` `IR Calibration`
+
+###  Smart Clip-On Neutralizer
+
+*Designed in SolidWorks to reduce vehicular air and noise pollution. Officially registered as an Intellectual Property design.*
+
+**Tech:** `SolidWorks` `CAD` `Product Design`
 
 
 
 
 
-##   `connect_with_me()`
+
+
+
+
+### 🐍 Contribution Grid Snake
