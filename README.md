@@ -1,26 +1,6 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER BANNER -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:00FF41&height=220&section=header&text=ARNAV%20DOMALWAR&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Electronics%20&%20Computer%20Science%20|%20AI%20|%20IoT%20|%20Robotics&descSize=16&descAlignY=65&descColor=cccccc&animation=scaleIn" width="100%" />[cite: 2]
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- TYPING SVG EFFECT -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/arnavdomalwar971">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%3E+Bridging+Hardware+and+Software+with+Intelligence;%3E+AI+/+ML+%7C+Embedded+Systems+%7C+Full+Stack+Developer" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED DIVIDER -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
