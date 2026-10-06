@@ -1,163 +1,201 @@
 <div align="center">
 
-<img src="assets/hero-engineering.gif" alt="Animated electronics engineering header" width="100%" />
+![Animated electronics banner](assets/circuit-banner.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=3FD2DC&center=true&vCenter=true&width=760&lines=Electronics+%26+Computer+Science+Student;Embedded+Systems+%7C+IoT+%7C+Robotics;AI%2FML+%7C+Computer+Vision+%7C+Software" alt="Animated role tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=00DCFF&center=true&vCenter=true&width=800&lines=Hardware+meets+intelligence.;ESP32+%7C+Embedded+Systems+%7C+IoT;Robotics+%7C+AI%2FML+%7C+Computer+Vision;Prototype.+Measure.+Debug.+Build+again." alt="Animated tagline" />
 
-<br/>
-
-<a href="mailto:arnavdomalwar971@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-3FD2DC?style=flat-square&logo=gmail&logoColor=white&labelColor=08101C" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Focus-Embedded%20%26%20IoT-42E6B4?style=flat-square&labelColor=08101C" alt="Embedded and IoT" />
-<img src="https://img.shields.io/badge/Interest-AI%20%2F%20ML-538BFF?style=flat-square&labelColor=08101C" alt="AI and ML" />
+<img src="https://img.shields.io/badge/ELECTRONICS-Embedded%20%26%20IoT-00DCFF?style=for-the-badge&labelColor=050D1B" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Computer%20Vision-7C5CFF?style=for-the-badge&labelColor=050D1B" />
+<img src="https://img.shields.io/badge/ROBOTICS-Real%20World%20Builds-2DE696?style=for-the-badge&labelColor=050D1B" />
 
 </div>
 
 ---
 
-## Profile
+## `boot_sequence()`
 
-I’m **Arnav Domalwar**, a B.Tech student in **Electronics & Computer Science at Ramdeobaba University, Nagpur**. I enjoy building practical systems at the intersection of electronics and software—from microcontroller-based prototypes and sensor integration to robotics, computer vision, and web applications.
+```text
+[ OK ]  Initializing engineer profile...
+[ OK ]  Loading Electronics & Computer Science modules
+[ OK ]  Embedded systems interface ........ READY
+[ OK ]  AI / ML experimentation ........... ACTIVE
+[ OK ]  Robotics + hardware integration ... IN PROGRESS
+```
 
-- **Embedded systems:** ESP32, Arduino, Embedded C, sensor interfacing, I²C and UART
-- **Robotics:** IR sensing, calibration, motor control, line-following logic
-- **AI / computer vision:** Python, OpenCV, PyTorch/TensorFlow workflows, transfer learning
-- **Software:** C/C++, Java, JavaScript, React, Node.js, Django, SQL
-- **Engineering design:** SolidWorks, CAD, and product-concept development
-
-<img src="assets/signal-wave.gif" alt="Animated signal waveform" width="100%" />
-
-## Technical toolkit
+I'm **Arnav Domalwar**, a B.Tech Electronics & Computer Science student at **Ramdeobaba University, Nagpur**. I like working where hardware and software meet: interfacing sensors, programming microcontrollers, building robotic prototypes, and exploring AI-powered systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,express,django,mongodb,firebase,opencv,pytorch,tensorflow,arduino,raspberrypi,git,github,linux,vscode&theme=dark" alt="Languages and development tools" />
+![Animated oscilloscope signal](assets/oscilloscope.gif)
 
 </div>
 
-| Area | Technologies and concepts |
+## `engineering_stack()`
+
+<div align="center">
+
+| Domain | Tools and concepts |
 |---|---|
-| **Embedded & IoT** | ESP32, Arduino, Embedded C, I²C, UART, sensor interfacing and calibration |
-| **Robotics** | 8-channel IR arrays, TB6612FNG, motor control, line tracking |
-| **AI / ML** | Python, OpenCV, PyTorch, TensorFlow, transfer learning, model evaluation |
-| **Software development** | C, C++, Java, JavaScript, SQL, React, Node.js, Express, Django, REST APIs |
+| **Embedded & electronics** | ESP32, Arduino, Embedded C, I²C, UART, sensor interfacing, calibration |
+| **Robotics** | IR sensor arrays, TB6612FNG motor driver, motor control, line tracking |
+| **AI / ML & vision** | Python, OpenCV, PyTorch, TensorFlow, transfer learning, model evaluation |
+| **Programming** | C, C++, Java, Python, JavaScript, SQL |
+| **Web development** | HTML, CSS, React, Node.js, Express, Django, REST APIs |
 | **Data & engineering** | NumPy, Pandas, Matplotlib, MATLAB, Power BI fundamentals |
 | **Tools & design** | Git, GitHub, Linux basics, VS Code, Arduino IDE, SolidWorks, CAD, Blender |
 
+</div>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express,django,mongodb,firebase,opencv,pytorch,tensorflow,arduino,raspberrypi,git,github,linux,vscode&theme=dark" alt="Technology icons" />
+</div>
+
 ---
 
-## Selected projects
+## `featured_projects()`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / IoT Health Monitoring System
+### ❤️ IoT Health Monitoring System
 
-**ESP32 · Arduino · Sensor Integration**
+<img src="https://img.shields.io/badge/BUILD-IoT%20%2B%20Embedded-00DCFF?style=flat-square&labelColor=050D1B" />
 
-A multi-sensor prototype for acquiring and displaying health-related measurements.
+Multi-sensor health-monitoring prototype using ESP32 and Arduino.
 
 - MAX30100 pulse / SpO₂ sensor
 - AD8232 ECG sensor
 - DS18B20 temperature sensor
 - ADXL345 motion sensor
 - HX711 load-cell interface
-- Embedded data acquisition and display output
+- I²C data acquisition and display output
 
-**Focus:** firmware, sensor integration, communication interfaces, and debugging.
+**Focus:** sensor integration, firmware, data acquisition, and debugging.
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / ESP32 Line Follower Bot
+### 🤖 ESP32 Line Follower Bot
 
-**Embedded Systems · Robotics**
+<img src="https://img.shields.io/badge/BUILD-ROBOTICS-2DE696?style=flat-square&labelColor=050D1B" />
 
-An autonomous robot prototype using IR sensing and motor-control logic to follow a line.
+Autonomous line-following robot built around real-time sensing and motor control.
 
 - ESP32 microcontroller
 - 8-channel IR sensor array
 - TB6612FNG motor driver
 - N20 geared DC motors
-- Calibration and direction handling
+- Sensor calibration and direction logic
 
-**Focus:** real-time sensing, decision logic, and actuator control.
+**Focus:** sensing → decision logic → motor actuation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Plant Species Classification
+### 🌿 Plant Species Classification
 
-**Python · OpenCV · Deep Learning**
+<img src="https://img.shields.io/badge/BUILD-AI%20%2F%20VISION-7C5CFF?style=flat-square&labelColor=050D1B" />
 
-An image-classification workflow using leaf images and transfer-learning techniques.
+Leaf-image classification workflow using computer-vision preprocessing and transfer learning.
 
 - Dataset preparation and augmentation
-- Image preprocessing with OpenCV
+- OpenCV preprocessing
 - PyTorch / TensorFlow workflow
-- Accuracy, F1-score, and confusion-matrix evaluation
+- Accuracy, F1-score, confusion matrix
 
-**Focus:** training and evaluating a computer-vision pipeline.
+**Focus:** model training and evaluation.
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Smart Clip-On Emission Neutralizer
+### 🌫️ Smart Clip-On Emission Neutralizer
 
-**SolidWorks · CAD · Product Design**
+<img src="https://img.shields.io/badge/BUILD-PRODUCT%20DESIGN-FF9F43?style=flat-square&labelColor=050D1B" />
 
-A detachable exhaust-end device concept intended to address vehicular air and noise pollution.
+CAD concept for a detachable exhaust-end device intended to help reduce vehicular air and noise pollution.
 
-- CAD-based product concept
-- Compact, detachable form factor
-- Engineering-led environmental problem solving
+- SolidWorks and CAD workflow
+- Compact detachable form factor
+- Environmental problem-solving concept
 
-*Design concept; emissions-reduction performance has not been independently verified.*
+**Note:** a design concept, not a claim of independently verified reduction performance.
 
 </td>
 </tr>
 </table>
 
-**Additional registered design:** Clip-On Hybrid Conversion Module — a scooter-related hybrid-conversion design concept.
-
-## Milestones
-
-- **HACKSAGON 2025 — Finalist**, ABV-IIITM Gwalior, with an IoT-enabled healthcare project.
-- **TECHNOXIAN WORLD CUP 2025 — Participant**, Fastest Line Follower Challenge with Team AutopilotX.
-- **TECHSPRINT HACKATHON — Participant**, Google Developer Groups on Campus, RBU.
-- **Registered design:** Neutralizer Device for Reduction in Vehicular Air and Noise Pollution.
-- **Registered design:** Clip-On Hybrid Conversion Module.
-
-## Current learning direction
-
-- Improving embedded programming, sensor calibration, and hardware–software integration.
-- Building stronger AI/ML and computer-vision workflows.
-- Practising full-stack development and API integration.
-- Strengthening DSA, computer networks, and software engineering fundamentals.
-
-## GitHub activity
-
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username. -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=08101C&title_color=3FD2DC&icon_color=42E6B4&text_color=E8F2FA" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=08101C&ring=3FD2DC&fire=42E6B4&currStreakLabel=3FD2DC&sideLabels=E8F2FA&currStreakNum=E8F2FA&sideNums=E8F2FA&dates=8CA4B8" alt="GitHub contribution streak" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=08101C&color=E8F2FA&line=3FD2DC&point=42E6B4&area=true&hide_border=true" alt="GitHub activity graph" />
+![Animated sensor scan](assets/sensor-sweep.gif)
 
 </div>
 
-## Connect
+### Additional registered design
+
+**Clip-On Hybrid Conversion Module** — a scooter-related hybrid-conversion design concept.
+
+---
+
+## `milestones()`
+
+- 🏁 **HACKSAGON 2025 finalist** — ABV-IIITM Gwalior; IoT-enabled healthcare project.
+- 🏎️ **TECHNOXIAN WORLD CUP 2025 participant** — Fastest Line Follower Challenge with Team AutopilotX.
+- 💡 **TECHSPRINT HACKATHON participant** — Google Developer Groups on Campus, RBU.
+- 📐 **Registered design:** Neutralizer Device for Reduction in Vehicular Air and Noise Pollution.
+- 📐 **Registered design:** Clip-On Hybrid Conversion Module.
+
+---
+
+## `in_the_lab()`
+
+```text
+          PHYSICAL WORLD
+                │
+                ▼
+      ┌──────────────────┐
+      │ SENSORS / INPUTS │  IR • I²C • UART
+      └────────┬─────────┘
+               ▼
+      ┌──────────────────┐
+      │ ESP32 / MCU      │  Read • Filter • Decide
+      └────────┬─────────┘
+               ▼
+      ┌──────────────────┐
+      │ OUTPUT / ACTION  │  Motors • Display • Data
+      └──────────────────┘
+```
+
+Currently strengthening my embedded programming, sensor calibration, machine-learning workflows, web development, and core computer-science fundamentals.
+
+## `github_dashboard()`
 
 <div align="center">
 
-<a href="mailto:arnavdomalwar971@gmail.com"><img src="https://img.shields.io/badge/Email-arnavdomalwar971%40gmail.com-3FD2DC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08101C" alt="Email Arnav" /></a>
+<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050D1B&title_color=00DCFF&icon_color=7C5CFF&text_color=E1F4FF" alt="GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050D1B&ring=00DCFF&fire=FF9F43&currStreakLabel=00DCFF&sideLabels=E1F4FF&currStreakNum=E1F4FF&sideNums=E1F4FF&dates=8BA3B9" alt="GitHub contribution streak" />
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Add%20your%20profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile placeholder" /></a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050D1B&color=E1F4FF&line=00DCFF&point=7C5CFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
-<sub>Interested in embedded systems, IoT, robotics, AI/ML, and collaborative engineering projects.</sub>
+</div>
+
+## `connect()`
+
+<div align="center">
+
+<a href="mailto:arnavdomalwar971@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-My%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — replace with profile URL" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace with profile URL" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=700&color=00DCFF&center=true&vCenter=true&width=700&lines=Measure+twice.+Wire+once.;Every+prototype+teaches+something.;Engineering+ideas+into+working+systems." alt="Animated closing line" />
+
+</div>
+
+<div align="center">
+
+![Animated footer](assets/circuit-banner.gif)
 
 </div>
