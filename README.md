@@ -1,6 +1,57 @@
 <div align="center">
 
-![Animated electronics banner](assets/circuit-banner.gif)
+<div align="center">
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- DYNAMIC HEADER & TYPING ANIMATION -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41,50:008F11&height=250&section=header&text=ARNAV%20DOMALWAR&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descSize=18&descAlignY=60&descColor=00FF41&animation=twinkling" width="100%" />
+
+<a href="https://github.com/arnavdomalwar971">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+_Initializing+intelligent+systems...;%3E+_Bridging+Hardware+and+Software.;%3E+_B.Tech+Electronics+%26+Computer+Science.;%3E+_Transforming+ideas+into+reality." alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- PROFILE VIEWS BADGE -->
+<img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&logo=github" alt="Profile Views" />
+
+<!-- GITHUB TROPHIES (Animated & Dynamic) -->
+<br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnavdomalwar971&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="5" width="100%">
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL STYLE ABOUT ME -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <code>sys.get_profile()</code></h2>
+</div>
+
+
+{
+  "developer": "Arnav Domalwar",
+  "location": "Nagpur, Maharashtra, India",
+  "education": "B.Tech Electronics & Computer Science @ Ramdeobaba University",
+  "status": "Finalist @ HACKSAGON 2025 | Holder of 2 Registered Designs",
+  "core_competencies": [
+    "AI / Machine Learning",
+    "Embedded Systems / IoT",[cite: 2]
+    "Computer Vision / Robotics",[cite: 2]
+    "Full Stack Web Development"[cite: 2]
+  ],
+  "mission": "Deploying scalable AI models onto edge hardware and intelligent IoT systems."
+}
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=00DCFF&center=true&vCenter=true&width=800&lines=Hardware+meets+intelligence.;ESP32+%7C+Embedded+Systems+%7C+IoT;Robotics+%7C+AI%2FML+%7C+Computer+Vision;Prototype.+Measure.+Debug.+Build+again." alt="Animated tagline" />
 
