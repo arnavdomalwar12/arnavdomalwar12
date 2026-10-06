@@ -26,15 +26,6 @@
 
 <br>
 
-<!-- PROFILE VIEWS BADGE -->
-<img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&logo=github" alt="Profile Views" />
-
-<!-- GITHUB TROPHIES (Animated & Dynamic) -->
-<br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavdomalwar971&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 <!-- NEON DIVIDER -->
