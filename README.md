@@ -1,8 +1,3 @@
-Here is the complete, customized `README.md` file ready for your GitHub profile. It incorporates your background in embedded systems, AI/ML, and IoT, along with unique animations like the dynamic skill icons and the GitHub contribution snake.
-
-*(Note: Please remove the `[cite: 2]` tags when you copy and paste this into your GitHub repository!)*
-
-```markdown
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
