@@ -17,13 +17,7 @@
 <!-- PROFILE VIEWS BADGE -->
 <img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&logo=github" alt="Profile Views" />
 
-<!-- GITHUB TROPHIES (Animated & Dynamic) -->
-<br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavdomalwar971&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</a>
 
-</div>
 
 <!-- NEON DIVIDER -->
 <div align="center">
@@ -38,7 +32,7 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> <code>sys.get_profile()</code></h2>
 </div>
 
-
+```json
 {
   "developer": "Arnav Domalwar",
   "location": "Nagpur, Maharashtra, India",
@@ -52,7 +46,7 @@
   ],
   "mission": "Deploying scalable AI models onto edge hardware and intelligent IoT systems."
 }
-
+```
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=00DCFF&center=true&vCenter=true&width=800&lines=Hardware+meets+intelligence.;ESP32+%7C+Embedded+Systems+%7C+IoT;Robotics+%7C+AI%2FML+%7C+Computer+Vision;Prototype.+Measure.+Debug.+Build+again." alt="Animated tagline" />
 
 <img src="https://img.shields.io/badge/ELECTRONICS-Embedded%20%26%20IoT-00DCFF?style=for-the-badge&labelColor=050D1B" />
