@@ -18,12 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=arnavdomalwar971&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&logo=github" alt="Profile Views" />
 
 
-
-<!-- NEON DIVIDER -->
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="5" width="100%">
-</div>
-
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- TERMINAL STYLE ABOUT ME -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -200,17 +194,6 @@ CAD concept for a detachable exhaust-end device intended to help reduce vehicula
 
 Currently strengthening my embedded programming, sensor calibration, machine-learning workflows, web development, and core computer-science fundamentals.
 
-## `github_dashboard()`
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050D1B&title_color=00DCFF&icon_color=7C5CFF&text_color=E1F4FF" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050D1B&ring=00DCFF&fire=FF9F43&currStreakLabel=00DCFF&sideLabels=E1F4FF&currStreakNum=E1F4FF&sideNums=E1F4FF&dates=8BA3B9" alt="GitHub contribution streak" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050D1B&color=E1F4FF&line=00DCFF&point=7C5CFF&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
 
 ## `connect()`
 
